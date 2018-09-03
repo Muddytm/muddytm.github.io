@@ -9,9 +9,8 @@
 title: The Mudblog
 email: hawkins.caleb93@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Have you ever thought to yourself, "Boy, I wish I could read blog posts by
-  a guy named Caleb and get insightful commentary as to how to be rich, famous,
-  and successful?" If so, you're in the right place. Except for that last bit.
+  This is where I post about...stuff. General purpose stuff. I'll come up with
+  something better to put down here later. (I probably won't)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://muddytm.github.io/" # the base hostname & protocol for your site
 twitter_username: muddytm
