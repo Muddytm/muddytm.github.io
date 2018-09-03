@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Mudblog</title>
+    <description>Have you ever thought to yourself, &quot;Boy, I wish I could read blog posts by  a guy named Caleb and get insightful commentary as to how to be rich, famous,  and successful?&quot; If so, you&#39;re in the right place. Except for that last bit. 
+</description>
+    <link>calebh93.github.io/</link>
+    <atom:link href="calebh93.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 03 Mar 2016 12:05:22 -0800</pubDate>
+    <lastBuildDate>Thu, 03 Mar 2016 12:05:22 -0800</lastBuildDate>
+    <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>Computer over: blog = very yes.</title>
+        <description>&lt;p&gt;This is a test blog post to determine if pushing buttons results in text being printed for the world to see.&lt;/p&gt;
+
+&lt;p&gt;If so, sweet!&lt;/p&gt;
+
+&lt;p&gt;That’s all.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 03 Mar 2016 11:32:45 -0800</pubDate>
+        <link>calebh93.github.io/blag/2016/03/03/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">calebh93.github.io/blag/2016/03/03/welcome-to-jekyll.html</guid>
+        
+        
+        <category>blag</category>
+        
+      </item>
+    
+  </channel>
+</rss>
