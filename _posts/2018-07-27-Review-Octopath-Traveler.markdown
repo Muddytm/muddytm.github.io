@@ -2,7 +2,7 @@
 layout: post
 title:  "Review: Octopath Traveler"
 date:   2018-07-29 12:00:00 -0700
-categories: grumble
+categories: review
 ---
 Finally, I've decided to actually act upon the whole "oh yeah, I'm gonna write a
 review for [game] soon!" thing that I've been declaring on Twitter roughly four
