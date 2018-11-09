@@ -25,7 +25,7 @@ Can't think of anything else, so let's get to it!
 
 Actually, scratch that, we're still *technically* setting stuff up. Let's go ahead and get a bot user set up through Discord!
 
-Go here and follow along: https://discordapp.com/developers/applications/
+Go here and follow along: [https://discordapp.com/developers/applications/]
 
 First off, go ahead and create an application and name it...whatever you want. The bot I'll be making will be called Corgi Bot, and will post things about corgis. Corgis are so hot right now.
 
@@ -41,15 +41,15 @@ No need to change anything here, but you WILL want to copy that token. Click the
 
 Now we want to add this bot to a server so it can actually do stuff! There's a couple things to consider before doing so, though. First off, what permissions do you want the bot to have? If this bot only posts pictures of corgis, we'll likely only want permissions such as **Send Messages** and **Attach Files**. If we want users to ask the bot to post pictures of corgis, we'll want the bot to be able to **Read Messages** as well. However, if you're making a bot that will essentially act as administrator or moderator, you'll probably want to give it permissions like **Administrator**.
 
-But how do we do this? Well, to manage the permissions that your bot will have and then begin the process of adding it to a Discord server, I would recommend using this site since it's plain ol' easy peasy: https://discordapi.com/permissions.html
+But how do we do this? Well, to manage the permissions that your bot will have and then begin the process of adding it to a Discord server, I would recommend using this site since it's plain ol' easy peasy: [https://discordapi.com/permissions.html]
 
 Go to that site and put in whatever permissions you want, then put the Client ID you wrote down earlier and put that in the specified blank. Should look something like this, but obviously without the dogs and with (possibly) different permissions than mine:
 
-![](https://i.imgur.com/Yyw6T6a.png)
-
-Go ahead and click that link, and you'll be brought to this page:
-
 ![](https://i.imgur.com/Cjb01og.png)
+
+Go ahead and click that link at the bottom, and you'll be brought to this page:
+
+![](https://i.imgur.com/Yyw6T6a.png)
 
 Select whatever server you want the bot to join, click Authorize, and you're good to go!
 
