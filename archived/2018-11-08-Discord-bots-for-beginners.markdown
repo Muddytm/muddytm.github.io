@@ -1,9 +1,4 @@
----
-layout: post
-title:  "Discord Bots for Beginners"
-date:   2018-11-08 12:00:00 -0700
-categories: code
----
+
 Since the dawn of time, before the heralding of the dawning sun and the birth of the moon and stars, mankind has been captivated by the lingering thought: "how do I make a bot in Discord?" Well, my friends, I have come to bequeath knowledge upon mankind in the form of this how-to guide on coding a simple Discord bot.
 
 

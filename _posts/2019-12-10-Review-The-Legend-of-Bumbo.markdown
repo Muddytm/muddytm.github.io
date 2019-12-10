@@ -2,7 +2,7 @@
 layout: post
 title:  "Review: The Legend of Bum-bo"
 date:   2019-12-10 12:00:00 -0700
-categories: code
+categories: gaming
 ---
 This will be a short one, but I wanted to give my impressions on The Legend of Bum-bo, having beaten the game with every character but the last (which only unlocks after beating the game another gazillion times).
 

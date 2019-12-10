@@ -1,9 +1,4 @@
----
-layout: post
-title:  "Review: Octopath Traveler"
-date:   2018-07-29 12:00:00 -0700
-categories: review
----
+
 Finally, I've decided to actually act upon the whole "oh yeah, I'm gonna write a
 review for [game] soon!" thing that I've been declaring on Twitter roughly four
 or five...dozen times now.. And lo and behold, it's about the game that, by all
